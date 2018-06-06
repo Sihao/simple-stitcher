@@ -29,3 +29,6 @@ s.save('stitched.png')
 ```
 
 This will save the stitched image in the same directory as the original images.
+
+# To do
+As of now, overlap between tile images is not accounted for.
